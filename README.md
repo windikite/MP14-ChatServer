@@ -1,0 +1,1 @@
+This is a websocket server that periodically broadcasts messages to be picked up by my chat room application. This is upgraded and specifically set aside to work with my mini project 15 chat room application.
